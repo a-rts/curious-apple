@@ -4,7 +4,7 @@
     "layout_type": "boxed",
     "style": "classic",
     "palette": "green",
-    "mode": "dark",
+    "mode": "light",
     "base_font": "serif",
     "header": {
         "title": "Personal Theme",
