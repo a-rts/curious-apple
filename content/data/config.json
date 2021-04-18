@@ -2,7 +2,7 @@
     "title": "Stackbit Personal Theme",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "classic",
+    "style": "minimal",
     "palette": "red",
     "mode": "light",
     "base_font": "serif",
