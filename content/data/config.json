@@ -29,7 +29,7 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false
+        "has_anncmnt": true
     },
     "footer": {
         "logo": "images/logo.svg",
